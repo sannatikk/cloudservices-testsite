@@ -41,8 +41,10 @@ Here are a few fun facts about puffins:
 
 Puffins are affected by climate change and overfishing. You can help by supporting organizations like:
 
-- [Audubon Project Puffin](https://projectpuffin.audubon.org/)
+- [Audubon Sea Bird Institute](https://seabirdinstitute.audubon.org/conservation)
 - [Seabird Conservation](https://www.seabirdconservation.org)
+- [Save Puffins](https://savepuffins.org)
+- [Scottish Wildlife Trust](https://scottishwildlifetrust.org.uk/things-to-do/helping-wildlife-at-home/puffins/)
 
 ### Puffin FAQs
 
