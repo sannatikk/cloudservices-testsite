@@ -28,8 +28,8 @@ Here are a few fun facts about puffins:
 | North Pacific           | Horned Puffin     |
 | North Pacific (Alaska)  | Tufted Puffin     |
 
+
 ---
-<br>
 
 > "Puffins are one of nature’s most endearing creatures. Their comical appearance and behavior captivate birdwatchers and wildlife enthusiasts alike." — National Geographic
 
