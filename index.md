@@ -33,7 +33,7 @@ Here are a few fun facts about puffins:
 
 > "Puffins are one of nature’s most endearing creatures. Their comical appearance and behavior captivate birdwatchers and wildlife enthusiasts alike." — National Geographic
 
-> "Holy shit, look at that thing!" - My husband
+> "Holy shit, look at that thing!" — My husband
 
 ---
 
