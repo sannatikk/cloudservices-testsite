@@ -67,3 +67,4 @@ class Puffin:
 
 puffin = Puffin()
 print(puffin.dive(100))  # Diving to 100 feet!
+```
